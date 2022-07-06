@@ -4,4 +4,4 @@
 
 ### Hello 我是onebetters 👋
 
-一个喜欢有挑战性工作的"社畜"git@github.com:onebetters/onebetters.git
+一个喜欢有挑战性工作的"社畜"https://github.com:onebetters/onebetters.git
